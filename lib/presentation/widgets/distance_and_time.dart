@@ -58,7 +58,7 @@ class DistanceAndTime extends StatelessWidget {
                     margin: const EdgeInsets.fromLTRB(20, 50, 20, 0),
                     child: ListTile(
                       dense: true,
-                      horizontalTitleGap: 0,
+                      horizontalTitleGap: 1,
                       leading: const Icon(
                         Icons.directions_car_filled,
                         color: Colors.blue,
